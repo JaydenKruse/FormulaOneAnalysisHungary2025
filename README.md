@@ -1,0 +1,1 @@
+This is a small-scale program that include a few illistrations of the difference between Lando Norris and Oscar Piastri and their race strategies during the 2025 Hungarian Grand Prix. The graphs include the differing tire strategies, gap to the leader of the race, and lap-time comparisons.
